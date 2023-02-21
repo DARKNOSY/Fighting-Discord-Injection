@@ -1,6 +1,6 @@
 <h2 align="center"><u>Fighting Discord Injection</u></h2>
 
-![Defend Yourself Against Discord Injections](https://media.tenor.com/WgfMKbE9bj4AAAAi/the-evil-discord-the_evil_discord.gif)
+![Defend Yourself Against Discord Injections]([https://www.statnews.com/wp-content/uploads/2021/07/AdobeStock_416730149-645x645.jpeg])
 <h4 align="center"> Defend Yourself Against Discord Injections </h4>
 
 <p align="center">
