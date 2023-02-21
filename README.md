@@ -1,6 +1,6 @@
 <h2 align="center"><u>Fighting Discord Injection</u></h2>
 
-![Defend Yourself Against Discord Injections](https://tenor.com/view/the-evil-discord-the_evil_discord-gif-21345044)
+![Defend Yourself Against Discord Injections](https://media.tenor.com/WgfMKbE9bj4AAAAi/the-evil-discord-the_evil_discord.gif)
 <h4 align="center"> Defend Yourself Against Discord Injections </h4>
 
 <p align="center">
@@ -24,3 +24,4 @@ All the Different Ways to Know if your Discord is Injected and What to do Agains
 
 ### [+] Credits 
 <a href="https://github.com/DARKNOSY/Fighting-Discord-Injection">DARKNOSY</a>
+
